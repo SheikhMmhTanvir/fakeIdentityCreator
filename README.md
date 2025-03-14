@@ -35,7 +35,5 @@ Email: rakibrahman56@gmail.com
 ## Contributing
 Feel free to contribute by improving the data sets or enhancing the functionality.
 
-## License
-This project is open-source and available under the MIT License.
 
 
